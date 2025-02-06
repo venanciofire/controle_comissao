@@ -1,0 +1,1 @@
+"C:\Program Files\KNIME\KNIME.exe"  -nosave -reset -nosplash -application org.knime.product.KNIME_BATCH_APPLICATION -workflowDir="\\BRTSSISP003\BBB0137$\Mesa Operacoes\13.BancoDados\01_PROCESSOS\02_ETL\01_BASE_GARANTIAS\01_FIANCAS"

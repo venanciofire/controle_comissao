@@ -1,0 +1,13 @@
+testes/
+.pytest_cache/
+.idea/
+__pycache__/
+output/
+dist/
+build/
+*.pdf
+*.bat
+venv
+acessos.py
+setup.py
+app.spec
